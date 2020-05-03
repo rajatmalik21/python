@@ -15,3 +15,9 @@ Python Files
     2.Indentation
         It explains Python doesn't work on braces but on tabs/spaces.
         Standard python code requires four spaces.
+    3. Variables
+        It explains how you can print numbers in integer and float format
+    4. Add Two Numbers
+        This is done to add 2 numbers (float) and display their result
+    5. Square Root
+        This is done to take our the square root of a number
