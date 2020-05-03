@@ -19,9 +19,9 @@ print("value of c {}".format(c)) #Note it's int only :)
 
 #Defining  String
 #----------------
-## a=sarab ---> error
-d='sarab'
-e="sarab"
+## a=rajat ---> error
+d='rajat'
+e="rajat"
 print(d)
 print("value of d {}".format(d))
 print(e)
