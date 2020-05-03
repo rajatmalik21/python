@@ -1,25 +1,11 @@
-@@ -0,0 +1,24 @@
-#Defining an INT
-a =27
-print(a)
-print("value of a {}".format(a))
+x = "rajat"
+if x == "rajat":
+    # indented four spaces
+    print("x is rajat")
 
+x = 1
+if x == 1:
+    print("x is 1")
+#if x is defined twice it will o/p both
 
-#Defining FLOAT
-b=27.0
-print(b)
-print("value of b {}".format(b))
-
-#Converting INT to FLOAT
-c=27
-print(float(c))
-print("value of c {}".format(c)) #Note it's int only :)
-
-#Defining  String
-## a=Rajat ---> error
-d='Rajat'
-e="Rajat"
-print(d)
-print("value of d {}".format(d))
-print(e)
-print("value of e {}".format(e)) 
+print ("rajat is learning", end = ' Python')
