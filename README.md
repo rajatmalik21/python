@@ -25,3 +25,6 @@ Python Files
         This is done based on the formula and result is shown upto 2 decimal spaces
         s = (a+b+c)/2  # s is the semi perimeter, and a,b,c are the 3 sides of a triangle
         area = √(s(s-a)*(s-b)*(s-c))
+    7. String printing
+        to print the string, specific characters, print it twice, concatenate strings
+    8. 
