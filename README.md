@@ -27,4 +27,12 @@ Python Files
         area = √(s(s-a)*(s-b)*(s-c))
     7. String printing
         to print the string, specific characters, print it twice, concatenate strings
-    8. 
+    8. Fibanacci series to be printed to the nth number
+    9. Fibanacci series 
+    10. Anonymous Power function (2 to the power of 1 to 10)
+    11. To take out a random card from a deck of cards
+    12. To convert Decimal to different types of number systems like Binary, Hexadecimal, Octadecimal
+    13. TO find LCM of 2 numbers
+    14. To find HCF of 2 numbers
+    15. To open a image file and return its height and width (To be tested)
+    16. Simple Calculator (addition, subtraction, multiplication, division, remainder)
