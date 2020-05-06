@@ -34,5 +34,7 @@ Python Files
     12. To convert Decimal to different types of number systems like Binary, Hexadecimal, Octadecimal
     13. TO find LCM of 2 numbers
     14. To find HCF of 2 numbers
-    15. To open a image file and return its height and width (To be tested)
+    15. To open a image file and return its height and width (To be tested- file not opening right now)
     16. Simple Calculator (addition, subtraction, multiplication, division, remainder)
+
+Regular expression - help required
