@@ -36,5 +36,11 @@ Python Files
     14. To find HCF of 2 numbers
     15. To open a image file and return its height and width (To be tested- file not opening right now)
     16. Simple Calculator (addition, subtraction, multiplication, division, remainder)
+    17. To swap two elements in a list
+    18. Reverse a list
+    19. To count positive and negative numbers in a List
+    20. Palindrome
+    21. Check if the string has a URL in it, using re
+    22. 
 
 Regular expression - help required
