@@ -26,5 +26,5 @@ def pattern(n):
   
   
 # Driver code 
-n = input("Enter height of stairs: ")
+n = int(input("Enter height of stairs: "))
 pattern(n) 

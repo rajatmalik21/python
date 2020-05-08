@@ -14,10 +14,10 @@ def isPalindrome(s):
   
   
 # Driver code 
-s = "madam"
+s = input("Enter a word to check if its a palindrome or not: ")
 ans = isPalindrome(s) 
   
 if ans == 1: 
-    print("Yes") 
+    print("Yes, this word is a palindrome")
 else: 
-    print("No") 
+    print("No, this word is not a palindrome")

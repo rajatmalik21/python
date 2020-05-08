@@ -1,4 +1,4 @@
-# Python program to display the Fibonacci sequence
+# Python program to display the Fibonacci sequence using recursive function
 
 def recur_fibo(n):
    if n <= 1:

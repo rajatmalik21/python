@@ -15,5 +15,5 @@ def Pattern(line):
     return pat 
    
 # Driver Code 
-line = input("Enter Number of lines: ")
-print(Pattern(line)) 
+line = int (input("Enter Number of lines: "))
+print ( Pattern(line) )
