@@ -41,6 +41,14 @@ Python Files
     19. To count positive and negative numbers in a List
     20. Palindrome
     21. Check if the string has a URL in it, using re
-    22. 
+    22. To convert time from 12 hour format to 24 hour format
+    23. To print inverted star pattern
+    24. Print a pattern G
+    25. Staircase printing pattern
+    26. Binary Search
+    27. Linear Search
+    28. Insertion Sort
+    29. Bubble Sort
+    30. 
 
 Regular expression - help required
