@@ -1,6 +1,6 @@
   
 # function which return reverse of a string 
-def reverse(s): 
+'''def reverse(s): 
     return s[::-1] 
   
 def isPalindrome(s): 
@@ -11,8 +11,17 @@ def isPalindrome(s):
     if (s == rev): 
         return True
     return False
-  
-  
+'''
+
+
+def isPalindrome(s):
+    # Run loop from 0 to len/2
+    for i in range(0, (len(s) // 2)):
+        if s[i] != s[len(s) - i - 1]:
+            return False
+    return True
+
+
 # Driver code 
 s = input("Enter a word to check if its a palindrome or not: ")
 ans = isPalindrome(s) 
