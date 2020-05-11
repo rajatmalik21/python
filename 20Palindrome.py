@@ -23,8 +23,8 @@ def isPalindrome(s):
 
 
 # Driver code 
-s = input("Enter a word to check if its a palindrome or not: ")
-ans = isPalindrome(s) 
+x = input("Enter a word to check if its a palindrome or not: ")
+ans = isPalindrome(x)
   
 if ans == 1: 
     print("Yes, this word is a palindrome")
