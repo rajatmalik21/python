@@ -52,3 +52,6 @@ Python Files
     30. 
 
 Regular expression - help required
+
+    EmpProj.py - This is a basic static way of accessing information of an employee and creating a list of employees with their information only accessible at runtime
+    EmpProj2.py - First page working, have to solve issues taking input and giving output of the employee information, and storing it in a file : "employee.dat" in binary format
