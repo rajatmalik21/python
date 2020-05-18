@@ -1,4 +1,4 @@
-import UdemyProjects.file_operations
+import PracticeRoughProjects.file_operations
 
 def find_in(iterable, finder, expected):
     for i in iterable:
