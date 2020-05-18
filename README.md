@@ -49,9 +49,14 @@ Python Files
     27. Linear Search
     28. Insertion Sort
     29. Bubble Sort
-    30. 
+    
+    Projects completed:
+    1. Milestone 1: It is used to store information of a movie library. The operations that can be performed are to ask the user to add movies, delete movies, list movies and find movies. Works for runtime only.
+    2. Milestone 2: It is used to store information of a library / book collection. This can store data in (CSV, JSON, MySql Database: 3 variants of the program made). The data stored is the name of the book, it's author and whether it has been read or not. The operations that can be defined are to add books, show list of books, find a particular  book, to change status of it being read or not.
+    
 
 Regular expression - help required
 
+Work in progress:
     EmpProj.py - This is a basic static way of accessing information of an employee and creating a list of employees with their information only accessible at runtime
     EmpProj2.py - First page working, have to solve issues taking input and giving output of the employee information, and storing it in a file : "employee.dat" in binary format
